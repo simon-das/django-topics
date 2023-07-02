@@ -65,4 +65,4 @@ Product.objects.all().update(quantity=F('quantity') + 5)
 <br>
 
 ## Reference
-https://docs.djangoproject.com/en/4.2/ref/models/querysets/
+https://docs.djangoproject.com/en/4.2/ref/models/expressions/
