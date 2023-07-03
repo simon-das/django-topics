@@ -1,22 +1,24 @@
 # Django Topics
 
-1. Model Inheritance
-2. Model Designs
-3. Lazy Evaluations
-4. Query Expressions
-5. Database Functions, Stored Procedures, DB Triggers
-6. Class-Based Views
-7. Function-Based Views
-8. Task Queues
-9. Logging
-10. Request/Server Monitoring
-11. CSRF Tokens
-12. Custom Filters and Template Tags
-13. Signals
-14. Permission and Authentication
-15. Middleware
-16. Caching
-17. Custom Authentication
-18. Throttling
-19. Message Framework
-20. Database connections: single and multiple
+1. [Authentication and Permissions(DRF)](https://github.com/simon-das/django-topics/tree/main/authentication-and-permissions-drf)
+2. [Caching](https://github.com/simon-das/django-topics/tree/main/caching)
+3. [Class-Based Views](https://github.com/simon-das/django-topics/tree/main/class-based-views)
+4. [Custom Template Filters](https://github.com/simon-das/django-topics/tree/main/custom-template-filters)
+5. [Custom Template Tags](https://github.com/simon-das/django-topics/tree/main/custom-template-tags)
+6. [Database connections (single and multiple)](https://github.com/simon-das/django-topics/tree/main/database-connections)
+7. [Database Functions](https://github.com/simon-das/django-topics/tree/main/database-functions)
+8. [Database Stored Procedure](https://github.com/simon-das/django-topics/tree/main/database-stored-procedure)
+9. [Database Triggers](https://github.com/simon-das/django-topics/tree/main/database-triggers)
+10. [Function-Based Views](https://github.com/simon-das/django-topics/tree/main/function-based-views)
+11. [Lazy Evaluations](https://github.com/simon-das/django-topics/tree/main/lazy-evaluation)
+12. [Logging](https://github.com/simon-das/django-topics/tree/main/logging)
+13. [Message Framework](https://github.com/simon-das/django-topics/tree/main/messages-framework)
+14. [Middleware](https://github.com/simon-das/django-topics/tree/main/middleware)
+15. [Model Designs](https://github.com/simon-das/django-topics/tree/main/model-designs)
+16. [Model Inheritance](https://github.com/simon-das/django-topics/tree/main/model-inheritance)
+17. [Query Expressions](https://github.com/simon-das/django-topics/tree/main/query-expressions)
+18. [Server Monitoring](https://github.com/simon-das/django-topics/tree/main/server-monitoring)
+19. [Signals](https://github.com/simon-das/django-topics/tree/main/signals)
+20. [Task Queue](https://github.com/simon-das/django-topics/tree/main/task-queue)
+21. [Throttling](https://github.com/simon-das/django-topics/tree/main/throttling)
+22. [CSRF Token](https://github.com/simon-das/django-topics/tree/main/csrf-token)
